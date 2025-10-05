@@ -47,4 +47,4 @@ The project demonstrates **data preprocessing, model training, evaluation, and d
 
 ## 👨‍💻 Author  
 **Ankit Saini**  
-- 🔗 [LinkedIn](https://linkedin.com/in/ankitsaini) | [Portfolio]()  
+🐙 [GitHub](https://github.com/ankitsaini605) 🔗 [LinkedIn](https://linkedin.com/in/ankitsaini605) 🌐 [Portfolio]()  
